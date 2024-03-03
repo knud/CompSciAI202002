@@ -5,5 +5,7 @@ The Google slides `Embedded Machine Learning` provide all the main details to tr
 
 The Jupyter notebook `CompSciAITF115.ipynb` is lightly documented to walk through training a small model. Other model architectures can be tried to be sure, so whack away!
 
+The speech data set is [speech_commands](https://www.kaggle.com/datasets/mok0na/speech-commands-v002)
+
 # License
 The Apache 2.0 license is used to be consistent with the code that has been copied from TensorFlow.org.
